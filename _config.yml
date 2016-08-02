@@ -4,7 +4,7 @@ url: http://languageandsound.com
 gems: [jekyll-paginate,  jekyll-gist]
 paginate: 8
 description:     Language & Sound
-intro: On Topics in language and sound. 
+intro: Topics in language and sound. 
 logo:             logo.png
 disqus_shortname:
 # url: http://gotchacode.com
