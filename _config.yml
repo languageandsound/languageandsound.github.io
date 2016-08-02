@@ -1,9 +1,9 @@
-name: Language and Sound
+name: Language & Sound
 highlighter: true
 url: http://languageandsound.com
 gems: [jekyll-paginate,  jekyll-gist]
 paginate: 8
-description:     This is Language and Sound
+description:     Language & Sound
 intro: White Paper is a Jekyll theme most suited to be used on tech blogs that like their content to shine.
 logo:             logo.png
 disqus_shortname:
